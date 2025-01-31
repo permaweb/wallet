@@ -9,5 +9,8 @@
   "dependencies": {
     "arweave": "^1.14.4"
   },
-  "bin": "./index.js"
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo ok"
+  }
 }
