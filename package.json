@@ -1,7 +1,7 @@
 {
   "name": "@permaweb/wallet",
   "description": "create arweave wallet file",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": "https://github.com/permaweb/wallet.git",
   "author": "Tom Wilson <tom@hyper.io>",
